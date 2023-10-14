@@ -1,4 +1,4 @@
-from typing import List, NamedTuple
+from typing import List, NamedTuple, DefaultDict
 
 import torch
 
@@ -33,7 +33,7 @@ class CTCCharTextEncoder(CharTextEncoder):
         return ''.join(decoded)
 
     def __extend_and_merge(self, frame, state):
-        new_state = {}
+        new_state = DefaultDict(float)
         for next_char_index, next_char_prob in enumerate(frame):
             next_char = self.ind2char[next_char_index]
             for (pref, last_char), pref_proba in state.items():
@@ -60,6 +60,7 @@ class CTCCharTextEncoder(CharTextEncoder):
         """
         assert len(probs.shape) == 2
         char_length, voc_size = probs.shape
+        probs = probs.detach().numpy()
         assert voc_size == len(self.ind2char)
         hypos: List[Hypothesis] = []
         # TODO: your code here

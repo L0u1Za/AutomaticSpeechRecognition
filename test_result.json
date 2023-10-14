@@ -1,0 +1,232 @@
+[
+  {
+    "ground_trurh": "I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM",
+    "pred_text_argmax": "theeiese  eeeireefire",
+    "pred_text_beam_search": [
+      [
+        "theieiesee e eeee ireeefiresesese ",
+        2.537129758820051e-13
+      ],
+      [
+        "theieiesee e eeee ireeefiresesesef",
+        2.4152011886142173e-13
+      ],
+      [
+        "theieiesee e eeee ireeefireseses ",
+        2.1904808770224002e-13
+      ],
+      [
+        "theieiesee e eeee ireeefiresesese",
+        2.125531913449969e-13
+      ],
+      [
+        "theieiesee e eeee ireeefiresese ",
+        2.0404746700458898e-13
+      ],
+      [
+        "theieiesee e eeee ireeefiresesesf",
+        1.927277603971843e-13
+      ],
+      [
+        "theieiesee e eeee ireeefireseseset",
+        1.8130318287461452e-13
+      ],
+      [
+        "theieiesee e eeee ireeefiresesef",
+        1.7975237779408396e-13
+      ],
+      [
+        "theieiesee e eeee ireeefiresesese",
+        1.742376164916956e-13
+      ],
+      [
+        "theieiesee e eeee ireeefireseseseh",
+        1.6602276067979493e-13
+      ]
+    ]
+  },
+  {
+    "ground_trurh": "ALL WATERS THAT ON EARTH MOST LIMPID ARE WOULD SEEM TO HAVE WITHIN THEMSELVES SOME MIXTURE COMPARED WITH THAT WHICH NOTHING DOTH CONCEAL",
+    "pred_text_argmax": "thei eeereeeshire",
+    "pred_text_beam_search": [
+      [
+        "thei  eeeeeeeeehiresesesese ",
+        3.3653307278684857e-16
+      ],
+      [
+        "thei  eeeeeeeeeehiresesesese ",
+        3.107179989935748e-16
+      ],
+      [
+        "thei  eeeeeeeeehireseseaese ",
+        2.8235066555887415e-16
+      ],
+      [
+        "thei  eeeeeeeeehiresesesesef",
+        2.7865360234757496e-16
+      ],
+      [
+        "thei  eeeeeeeeehiresesesese",
+        2.7624006202780395e-16
+      ],
+      [
+        "thei  eeeeeeeeeehireseseaese ",
+        2.6620392539001554e-16
+      ],
+      [
+        "thei  eeeeeeeeeehiresesesesef",
+        2.574823961534499e-16
+      ],
+      [
+        "thei  eeeeeeeeeehiresesesese",
+        2.552522288794146e-16
+      ],
+      [
+        "thei  eeeeeeeeehireseseses ",
+        2.4518389855493975e-16
+      ],
+      [
+        "thei  eeeeeeeeehireseseseses ",
+        2.4381240026360825e-16
+      ]
+    ]
+  },
+  {
+    "ground_trurh": "THOU MAKEST ME REMEMBER WHERE AND WHAT PROSERPINA THAT MOMENT WAS WHEN LOST HER MOTHER HER AND SHE HERSELF THE SPRING",
+    "pred_text_argmax": "theirereeees se seefire",
+    "pred_text_beam_search": [
+      [
+        "theireeeeeees see se efiresrs ",
+        4.8249213858562584e-11
+      ],
+      [
+        "theireeeeeees see se efires s ",
+        4.6790605582249746e-11
+      ],
+      [
+        "theireeeeeees see se efires ",
+        4.527393235498876e-11
+      ],
+      [
+        "theireeeeeeees see se efires s ",
+        4.322414935214575e-11
+      ],
+      [
+        "theireeeeeeees see se efiresrs ",
+        4.30722415638373e-11
+      ],
+      [
+        "theireeeeeees see se efires ",
+        4.112226256153144e-11
+      ],
+      [
+        "theireeeeeeees see se efires ",
+        3.967585824404071e-11
+      ],
+      [
+        "theireeeeeees see se e firesrs ",
+        3.789030650093747e-11
+      ],
+      [
+        "theireeeeeeees see se efires ",
+        3.6201650630794704e-11
+      ],
+      [
+        "theireeeeeees see se efires f",
+        3.587247824948308e-11
+      ]
+    ]
+  },
+  {
+    "ground_trurh": "BUT WITH FULL RAVISHMENT THE HOURS OF PRIME SINGING RECEIVED THEY IN THE MIDST OF LEAVES THAT EVER BORE A BURDEN TO THEIR RHYMES",
+    "pred_text_argmax": "theireeeefis",
+    "pred_text_beam_search": [
+      [
+        "theireeee eefis",
+        0.004569611695558851
+      ],
+      [
+        "theireeee  eefis",
+        0.004228718721155504
+      ],
+      [
+        "theireee eefis",
+        0.003482375292537076
+      ],
+      [
+        "theireee  eefis",
+        0.003358756318832446
+      ],
+      [
+        "theireeeee eefis",
+        0.0027780699396241846
+      ],
+      [
+        "theireeee eeefis",
+        0.0026935537512493796
+      ],
+      [
+        "theireeeee  eefis",
+        0.0025092200493473096
+      ],
+      [
+        "theireeee efis",
+        0.002350801688781387
+      ],
+      [
+        "theireeee  efis",
+        0.0022762232655207286
+      ],
+      [
+        "theireeeeeefis",
+        0.0022206940889454908
+      ]
+    ]
+  },
+  {
+    "ground_trurh": "YE ARE NEW COMERS AND BECAUSE I SMILE BEGAN SHE PERADVENTURE IN THIS PLACE ELECT TO HUMAN NATURE FOR ITS NEST",
+    "pred_text_argmax": "thereeeeeeeeire",
+    "pred_text_beam_search": [
+      [
+        "thereeeeee e  eeeireesesesese ",
+        6.257174991686428e-16
+      ],
+      [
+        "thereeeeee e  eeeireesesesesef",
+        5.888839043488852e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseseaese ",
+        5.862339343726724e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseseaesef",
+        5.435132478186076e-16
+      ],
+      [
+        "thereeeeee e  eeeireesesesese",
+        5.126241337921535e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseaesese ",
+        4.85701246649584e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseseaese",
+        4.69192003153353e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseseses ",
+        4.630117286448725e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseseseset",
+        4.385184654749385e-16
+      ],
+      [
+        "thereeeeee e  eeeireeseaeaese ",
+        4.2552775435943493e-16
+      ]
+    ]
+  }
+]
