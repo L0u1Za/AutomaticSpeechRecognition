@@ -10,7 +10,6 @@ def collate_fn(dataset_items: List[dict]):
     Collate and pad fields in dataset items
     """
 
-    # TODO: your code here
     num_items = len(dataset_items)
     max_audio_length = max([item['audio'].shape[1] for item in dataset_items])
     max_spec_length = max([item['spectrogram'].shape[2] for item in dataset_items])

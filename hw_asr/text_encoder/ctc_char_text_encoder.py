@@ -63,7 +63,7 @@ class CTCCharTextEncoder(CharTextEncoder):
         probs = probs.detach().numpy()
         assert voc_size == len(self.ind2char)
         hypos: List[Hypothesis] = []
-        # TODO: your code here
+
         state = {('', self.EMPTY_TOK): 1.0}
         for frame in probs:
             state = self.__extend_and_merge(frame, state)

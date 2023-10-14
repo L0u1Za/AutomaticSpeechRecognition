@@ -2,7 +2,6 @@
 import editdistance
 
 def calc_cer(target_text, predicted_text) -> float:
-    # TODO: your code here
     if not target_text:
         if predicted_text:
             return 1
@@ -14,7 +13,6 @@ def calc_cer(target_text, predicted_text) -> float:
 
 
 def calc_wer(target_text, predicted_text) -> float:
-    # TODO: your code here
     if not target_text:
         if predicted_text:
             return 1
