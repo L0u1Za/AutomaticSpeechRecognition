@@ -18,8 +18,8 @@
     "type": "DeepSpeechModel",
     "args": {
       "n_feats": 128,
-      "rnn_layers": 7,
-      "rnn_hidden_size": 512
+      "rnn_layers": 5,
+      "rnn_hidden_size": 128
     }
   },
   "data": {
