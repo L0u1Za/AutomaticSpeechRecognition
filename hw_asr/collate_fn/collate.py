@@ -22,7 +22,6 @@ def collate_fn(dataset_items: List[dict]):
     spectrogram_length, text_encoded_length = torch.tensor([item['spectrogram'].shape[2] for item in dataset_items], dtype=torch.int32), torch.tensor([item['text_encoded'].shape[1] for item in dataset_items], dtype=torch.int32)
 
     for i, item in enumerate(dataset_items):
-        # print(item['audio'].shape, item['spectrogram'].shape, item['text_encoded'].shape)
         audio[i, :item['audio'].shape[1]] = item['audio'].squeeze(0)
         spectrogram[i, :, :item['spectrogram'].shape[2]] = item['spectrogram'].squeeze(0)
         text_encoded[i, :item['text_encoded'].shape[1]] = item['text_encoded'].squeeze(0)

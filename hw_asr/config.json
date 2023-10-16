@@ -18,8 +18,8 @@
     "type": "DeepSpeechModel",
     "args": {
       "n_feats": 128,
-      "rnn_layers": 7,
-      "rnn_hidden_size": 512
+      "rnn_layers": 5,
+      "rnn_hidden_size": 128
     }
   },
   "data": {
@@ -42,15 +42,6 @@
           "args": {
             "data_dir": "/kaggle/input/librispeech-clean",
             "part": "train-clean-360",
-            "max_audio_length": 20.0,
-            "max_text_length": 200
-          }
-        },
-        {
-          "type": "LibrispeechDataset",
-          "args": {
-            "data_dir": "/kaggle/input/librispeech-clean",
-            "part": "train-other-500",
             "max_audio_length": 20.0,
             "max_text_length": 200
           }
