@@ -33,7 +33,7 @@ class LibrispeechDataset(BaseDataset):
             data_dir.mkdir(exist_ok=True, parents=True)
         else:
             data_dir = Path(data_dir)
-        self._data_dir = data_dir
+        self._data_dir = Path(data_dir).absolute().resolve().parent.parent.parent / data_dir
         if part == 'train_all':
             index = sum([self._get_or_load_index(part)
                          for part in URL_LINKS if 'train' in part], [])
