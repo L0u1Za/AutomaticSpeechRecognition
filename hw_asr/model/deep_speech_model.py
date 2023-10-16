@@ -29,21 +29,18 @@ class DeepSpeechModel(BaseModel):
     def forward(self, spectrogram, **batch):
         #print("====start====")
         #print(spectrogram.shape)
-        spectrogram = spectrogram.unsqueeze(1).transpose(2, 3) # Batch x 1(channel) x Embed x Time
+        #spectrogram = spectrogram.unsqueeze(1).transpose(2, 3) # Batch x Channels(1) x Time x Embed
         #print(spectrogram.shape)
 
-        output = self.conv(spectrogram)
+        output = self.conv(spectrogram.unsqueeze(1).transpose(2, 3)).flatten(1, 2)
         #print("Conv", output.shape)
-        batch_size, channels, dimension, seq_lengths = output.size()
 
-        #output = output.permute(0, 3, 1, 2)
-        #output = output.view(batch_size, seq_lengths, channels * dimension)
-        output = output.flatten(1, 2)
+        #output = output.flatten(1, 2) # Batch x Сhannels * Dimension (Sequence) x Embed
         #print(output.shape)
         output, _ = self.rnn(output)
         #print("Rnn", output.shape)
 
-        output = self.fc(output)
+        output = self.fc(output) # Batch x n_class
         #print(output.shape)
         #print("====end=====")
         return {"logits": output}
