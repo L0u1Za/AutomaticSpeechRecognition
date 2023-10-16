@@ -15,4 +15,3 @@ wandb
 pyctcdecode
 torchaudio~=0.11.0
 pillow
-#windows-curses
