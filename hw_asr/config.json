@@ -45,15 +45,6 @@
             "max_audio_length": 20.0,
             "max_text_length": 200
           }
-        },
-        {
-          "type": "LibrispeechDataset",
-          "args": {
-            "data_dir": "/kaggle/input/librispeech-clean",
-            "part": "train-other-500",
-            "max_audio_length": 20.0,
-            "max_text_length": 200
-          }
         }
       ]
     },
