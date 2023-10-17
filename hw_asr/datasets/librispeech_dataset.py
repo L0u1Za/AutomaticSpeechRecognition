@@ -25,7 +25,7 @@ URL_LINKS = {
 
 
 class LibrispeechDataset(BaseDataset):
-    def __init__(self, part, data_dir=None, *args, **kwargs):
+    def __init__(self, part, data_dir=None, index_dir=None, *args, **kwargs):
         assert part in URL_LINKS or part == 'train_all'
 
         if data_dir is None:
@@ -34,6 +34,13 @@ class LibrispeechDataset(BaseDataset):
         else:
             data_dir = Path(data_dir).absolute().resolve()
         self._data_dir = data_dir
+
+        if index_dir is None:
+            index_dir = ROOT_PATH / "data" / "datasets" / "librispeech"
+            index_dir.mkdir(exist_ok=True, parents=True)
+        else:
+            index_dir = Path(index_dir).absolute().resolve()
+        self._index_dir = index_dir
         if part == 'train_all':
             index = sum([self._get_or_load_index(part)
                          for part in URL_LINKS if 'train' in part], [])
@@ -53,7 +60,7 @@ class LibrispeechDataset(BaseDataset):
         shutil.rmtree(str(self._data_dir / "LibriSpeech"))
 
     def _get_or_load_index(self, part):
-        index_path = self._data_dir / f"{part}_index.json"
+        index_path = self._index_dir / f"{part}_index.json"
         if index_path.exists():
             with index_path.open() as f:
                 index = json.load(f)
