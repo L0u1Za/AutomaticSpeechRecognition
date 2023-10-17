@@ -58,4 +58,4 @@ class DeepSpeechModel(BaseModel):
         return {"logits": output}
 
     def transform_input_lengths(self, input_lengths):
-        return input_lengths
+        return input_lengths // 2
