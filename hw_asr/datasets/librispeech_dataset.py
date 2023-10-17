@@ -32,14 +32,14 @@ class LibrispeechDataset(BaseDataset):
             data_dir = ROOT_PATH / "data" / "datasets" / "librispeech"
             data_dir.mkdir(exist_ok=True, parents=True)
         else:
-            data_dir = Path(data_dir).absolute().resolve()
+            data_dir = Path(data_dir)
         self._data_dir = data_dir
 
         if index_dir is None:
-            index_dir = ROOT_PATH / "data" / "datasets" / "librispeech"
+            index_dir = ROOT_PATH / "data" / "datasets"
             index_dir.mkdir(exist_ok=True, parents=True)
         else:
-            index_dir = Path(index_dir).absolute().resolve()
+            index_dir = Path(index_dir)
         self._index_dir = index_dir
         if part == 'train_all':
             index = sum([self._get_or_load_index(part)
@@ -73,6 +73,7 @@ class LibrispeechDataset(BaseDataset):
     def _create_index(self, part):
         index = []
         split_dir = self._data_dir / part
+        print(split_dir)
         if not split_dir.exists():
             self._load_part(part)
 
