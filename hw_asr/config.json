@@ -30,7 +30,7 @@
         {
           "type": "LibrispeechDataset",
           "args": {
-            "data_dir": "/kaggle/input/librispeech-clean/librispeech",
+            "data_dir": "/kaggle/input/librispeech-clean/LibriSpeech",
             "index_dir": "/kaggle/output/librispeech-clean",
             "part": "train-clean-100",
             "max_audio_length": 20.0,
@@ -40,7 +40,7 @@
         {
           "type": "LibrispeechDataset",
           "args": {
-            "data_dir": "/kaggle/input/librispeech-clean/librispeech",
+            "data_dir": "/kaggle/input/librispeech-clean/LibriSpeech",
             "index_dir": "/kaggle/output/librispeech-clean",
             "part": "train-clean-360",
             "max_audio_length": 20.0,
@@ -56,7 +56,7 @@
         {
           "type": "LibrispeechDataset",
           "args": {
-            "data_dir": "/kaggle/input/librispeech-clean/librispeech",
+            "data_dir": "/kaggle/input/librispeech-clean/LibriSpeech",
             "index_dir": "/kaggle/output/librispeech-clean",
             "part": "dev-clean"
           }
@@ -70,7 +70,7 @@
         {
           "type": "LibrispeechDataset",
           "args": {
-            "data_dir": "/kaggle/input/librispeech-clean/librispeech",
+            "data_dir": "/kaggle/input/librispeech-clean/LibriSpeech",
             "index_dir": "/kaggle/output/librispeech-clean",
             "part": "test-other"
           }
@@ -84,7 +84,7 @@
         {
           "type": "LibrispeechDataset",
           "args": {
-            "data_dir": "/kaggle/input/librispeech-clean/librispeech",
+            "data_dir": "/kaggle/input/librispeech-clean/LibriSpeech",
             "index_dir": "/kaggle/output/librispeech-clean",
             "part": "test-clean"
           }
