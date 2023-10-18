@@ -11,7 +11,12 @@
     "log_spec": true
   },
   "augmentations": {
-    "wave": [],
+    "wave": [
+      {
+        "type": "Gain",
+        "args": {}
+      }
+    ],
     "spectrogram": []
   },
   "arch": {
