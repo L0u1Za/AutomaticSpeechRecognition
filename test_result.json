@@ -1,231 +1,231 @@
 [
   {
-    "ground_trurh": "I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM",
-    "pred_text_argmax": "theeiese  eeeireefire",
+    "ground_trurh": "BUT WITH FULL RAVISHMENT THE HOURS OF PRIME SINGING RECEIVED THEY IN THE MIDST OF LEAVES THAT EVER BORE A BURDEN TO THEIR RHYMES",
+    "pred_text_argmax": "but with full ravighment the hours of prime thinging received they in the midst of leaves that everboor a burden to their rimes",
     "pred_text_beam_search": [
       [
-        "theieiesee e eeee ireeefiresesese ",
-        2.537129758820051e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that ever boor a burden to their rimes",
+        1.8603084547919316e-05
       ],
       [
-        "theieiesee e eeee ireeefiresesesef",
-        2.4152011886142173e-13
+        "but with full ravighment bhe hours of prime thinging received they in the midst of leaves that ever boor a burden to their rimes",
+        1.4899486604775726e-05
       ],
       [
-        "theieiesee e eeee ireeefireseses ",
-        2.1904808770224002e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that everboor a burden to their rimes",
+        1.4016957174312047e-05
       ],
       [
-        "theieiesee e eeee ireeefiresesese",
-        2.125531913449969e-13
+        "but with full ravighment bhe hours of prime thinging received they in the midst of leaves that everboor a burden to their rimes",
+        1.1276039492480802e-05
       ],
       [
-        "theieiesee e eeee ireeefiresese ",
-        2.0404746700458898e-13
+        "but with full ravisghment the hours of prime thinging received they in the midst of leaves that ever boor a burden to their rimes",
+        5.002402197963205e-06
       ],
       [
-        "theieiesee e eeee ireeefiresesesf",
-        1.927277603971843e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that ever bor a burden to their rimes",
+        4.877300995283253e-06
       ],
       [
-        "theieiesee e eeee ireeefireseseset",
-        1.8130318287461452e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that ever boor aburden to their rimes",
+        4.1518839499136175e-06
       ],
       [
-        "theieiesee e eeee ireeefiresesef",
-        1.7975237779408396e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that ever boora burden to their rimes",
+        3.876375826492638e-06
       ],
       [
-        "theieiesee e eeee ireeefiresesese",
-        1.742376164916956e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that ever boor a burden to thir rimes",
+        3.6095068768666425e-06
       ],
       [
-        "theieiesee e eeee ireeefireseseseh",
-        1.6602276067979493e-13
+        "but with full ravighment the hours of prime thinging received they in the midst of leaves that ever boor a burden to theirimes",
+        3.443195956493956e-06
       ]
     ]
   },
   {
     "ground_trurh": "ALL WATERS THAT ON EARTH MOST LIMPID ARE WOULD SEEM TO HAVE WITHIN THEMSELVES SOME MIXTURE COMPARED WITH THAT WHICH NOTHING DOTH CONCEAL",
-    "pred_text_argmax": "thei eeereeeshire",
+    "pred_text_argmax": "all waters that onearhmost limpid are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
     "pred_text_beam_search": [
       [
-        "thei  eeeeeeeeehiresesesese ",
-        3.3653307278684857e-16
+        "all waters that on earthmost limpid are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
+        1.0658000796926241e-07
       ],
       [
-        "thei  eeeeeeeeeehiresesesese ",
-        3.107179989935748e-16
+        "all waters that onearthmost limpid are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
+        1.0528966500652255e-07
       ],
       [
-        "thei  eeeeeeeeehireseseaese ",
-        2.8235066555887415e-16
+        "all waters that on earth most limpid are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
+        7.116126954160853e-08
       ],
       [
-        "thei  eeeeeeeeehiresesesesef",
-        2.7865360234757496e-16
+        "all waters that on earthmost limpid are would seem to have within themselved soe mixture compared with that which nothing doth conceal",
+        6.906527695162943e-08
       ],
       [
-        "thei  eeeeeeeeehiresesesese",
-        2.7624006202780395e-16
+        "all waters that onearthmost limpid are would seem to have within themselved soe mixture compared with that which nothing doth conceal",
+        6.826362825159116e-08
       ],
       [
-        "thei  eeeeeeeeeehireseseaese ",
-        2.6620392539001554e-16
+        "all waters that onearth most limpid are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
+        6.38385793060709e-08
       ],
       [
-        "thei  eeeeeeeeeehiresesesesef",
-        2.574823961534499e-16
+        "all waters that on earthmost limpit are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
+        6.344586124370457e-08
       ],
       [
-        "thei  eeeeeeeeeehiresesesese",
-        2.552522288794146e-16
+        "all waters that onearthmost limpit are would seem to have within themselves soe mixture compared with that which nothing doth conceal",
+        5.8653626908993676e-08
       ],
       [
-        "thei  eeeeeeeeehireseseses ",
-        2.4518389855493975e-16
+        "all waters that on earthmost limpid are would seemn to have within themselves soe mixture compared with that which nothing doth conceal",
+        5.575110768700891e-08
       ],
       [
-        "thei  eeeeeeeeehireseseseses ",
-        2.4381240026360825e-16
-      ]
-    ]
-  },
-  {
-    "ground_trurh": "THOU MAKEST ME REMEMBER WHERE AND WHAT PROSERPINA THAT MOMENT WAS WHEN LOST HER MOTHER HER AND SHE HERSELF THE SPRING",
-    "pred_text_argmax": "theirereeees se seefire",
-    "pred_text_beam_search": [
-      [
-        "theireeeeeees see se efiresrs ",
-        4.8249213858562584e-11
-      ],
-      [
-        "theireeeeeees see se efires s ",
-        4.6790605582249746e-11
-      ],
-      [
-        "theireeeeeees see se efires ",
-        4.527393235498876e-11
-      ],
-      [
-        "theireeeeeeees see se efires s ",
-        4.322414935214575e-11
-      ],
-      [
-        "theireeeeeeees see se efiresrs ",
-        4.30722415638373e-11
-      ],
-      [
-        "theireeeeeees see se efires ",
-        4.112226256153144e-11
-      ],
-      [
-        "theireeeeeeees see se efires ",
-        3.967585824404071e-11
-      ],
-      [
-        "theireeeeeees see se e firesrs ",
-        3.789030650093747e-11
-      ],
-      [
-        "theireeeeeeees see se efires ",
-        3.6201650630794704e-11
-      ],
-      [
-        "theireeeeeees see se efires f",
-        3.587247824948308e-11
-      ]
-    ]
-  },
-  {
-    "ground_trurh": "BUT WITH FULL RAVISHMENT THE HOURS OF PRIME SINGING RECEIVED THEY IN THE MIDST OF LEAVES THAT EVER BORE A BURDEN TO THEIR RHYMES",
-    "pred_text_argmax": "theireeeefis",
-    "pred_text_beam_search": [
-      [
-        "theireeee eefis",
-        0.004569611695558851
-      ],
-      [
-        "theireeee  eefis",
-        0.004228718721155504
-      ],
-      [
-        "theireee eefis",
-        0.003482375292537076
-      ],
-      [
-        "theireee  eefis",
-        0.003358756318832446
-      ],
-      [
-        "theireeeee eefis",
-        0.0027780699396241846
-      ],
-      [
-        "theireeee eeefis",
-        0.0026935537512493796
-      ],
-      [
-        "theireeeee  eefis",
-        0.0025092200493473096
-      ],
-      [
-        "theireeee efis",
-        0.002350801688781387
-      ],
-      [
-        "theireeee  efis",
-        0.0022762232655207286
-      ],
-      [
-        "theireeeeeefis",
-        0.0022206940889454908
+        "all waters that on earthmost limpid are would seemd to have within themselves soe mixture compared with that which nothing doth conceal",
+        5.556957947088436e-08
       ]
     ]
   },
   {
     "ground_trurh": "YE ARE NEW COMERS AND BECAUSE I SMILE BEGAN SHE PERADVENTURE IN THIS PLACE ELECT TO HUMAN NATURE FOR ITS NEST",
-    "pred_text_argmax": "thereeeeeeeeire",
+    "pred_text_argmax": "ye i knew commers and because i smile becan she peradventure in this place alect to human nature for its nesed",
     "pred_text_beam_search": [
       [
-        "thereeeeee e  eeeireesesesese ",
-        6.257174991686428e-16
+        "ye i knew commers and because i smile becan she peradventure in this place alect to human nature for its nesed",
+        0.00016697514578571456
       ],
       [
-        "thereeeeee e  eeeireesesesesef",
-        5.888839043488852e-16
+        "ye i new commers and because i smile becan she peradventure in this place alect to human nature for its nesed",
+        0.00010449318523150229
       ],
       [
-        "thereeeeee e  eeeireeseseaese ",
-        5.862339343726724e-16
+        "ye i knew commers and because i smile becan she peradventure in this place alect to human nature for its neset",
+        0.00010154055952895196
       ],
       [
-        "thereeeeee e  eeeireeseseaesef",
-        5.435132478186076e-16
+        "ye i new commers and because i smile becan she peradventure in this place alect to human nature for its neset",
+        6.610993984178916e-05
       ],
       [
-        "thereeeeee e  eeeireesesesese",
-        5.126241337921535e-16
+        "ye i knew commers and because i smile becan she peradventure in this place alect to human nature for its nesed ",
+        6.051806800247474e-05
       ],
       [
-        "thereeeeee e  eeeireeseaesese ",
-        4.85701246649584e-16
+        "ye i knew commers and because i smile becan che peradventure in this place alect to human nature for its nesed",
+        5.811791992640381e-05
       ],
       [
-        "thereeeeee e  eeeireeseseaese",
-        4.69192003153353e-16
+        "ye i knew commers and because i smile becan she peradventure in this place elect to human nature for its nesed",
+        5.6749747045682206e-05
       ],
       [
-        "thereeeeee e  eeeireeseseses ",
-        4.630117286448725e-16
+        "ye i knew commers and because i smile becan she peradventure in this playce alect to human nature for its nesed",
+        5.2309601078238706e-05
       ],
       [
-        "thereeeeee e  eeeireeseseseset",
-        4.385184654749385e-16
+        "ye i knew commers and because i smile becan she peradventure in this place a lect to human nature for its nesed",
+        5.08035852153705e-05
       ],
       [
-        "thereeeeee e  eeeireeseaeaese ",
-        4.2552775435943493e-16
+        "ye i knew commers and because i smile becan she peradventure in this place alect to human nature for its nest",
+        4.928680335633694e-05
+      ]
+    ]
+  },
+  {
+    "ground_trurh": "THOU MAKEST ME REMEMBER WHERE AND WHAT PROSERPINA THAT MOMENT WAS WHEN LOST HER MOTHER HER AND SHE HERSELF THE SPRING",
+    "pred_text_argmax": "thou make est me remember wheare and what procepina that moment was when lost her mother her and she herself the spring",
+    "pred_text_beam_search": [
+      [
+        "thou make est me remember wheare and what procepina that moment was when lost her mother her and she herself the spring",
+        9.338013358163037e-05
+      ],
+      [
+        "thou make ast me remember wheare and what procepina that moment was when lost her mother her and she herself the spring",
+        9.312994339491173e-05
+      ],
+      [
+        "thou make est me remember wheare and what procepena that moment was when lost her mother her and she herself the spring",
+        8.804950688497388e-05
+      ],
+      [
+        "thou make ast me remember wheare and what procepena that moment was when lost her mother her and she herself the spring",
+        8.781428035630833e-05
+      ],
+      [
+        "thou make est me remember weare and what procepina that moment was when lost her mother her and she herself the spring",
+        7.016851034652757e-05
+      ],
+      [
+        "thou make ast me remember weare and what procepina that moment was when lost her mother her and she herself the spring",
+        6.991632440003688e-05
+      ],
+      [
+        "thou make est me remember where and what procepina that moment was when lost her mother her and she herself the spring",
+        6.598528816531061e-05
+      ],
+      [
+        "thou make ast me remember where and what procepina that moment was when lost her mother her and she herself the spring",
+        6.57901015293754e-05
+      ],
+      [
+        "thou make est me remember weare and what procepena that moment was when lost her mother her and she herself the spring",
+        6.452317203315074e-05
+      ],
+      [
+        "thou make ast me remember weare and what procepena that moment was when lost her mother her and she herself the spring",
+        6.428573927499009e-05
+      ]
+    ]
+  },
+  {
+    "ground_trurh": "I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM",
+    "pred_text_argmax": "i do not think their shone so great a light under the lids of venus when trans fikx wby her all an son beyond his usual custome",
+    "pred_text_beam_search": [
+      [
+        "i do not think their shone so great a light under the lids of venus when trans fickx wby her all an son beyond his usual custome",
+        1.6203513763269387e-08
+      ],
+      [
+        "i do not think their shone so great a light under the lids of venus when trans fickx wby her allan son beyond his usual custome",
+        1.581626835429816e-08
+      ],
+      [
+        "i do not think their shone sol great a light under the lids of venus when trans fickx wby her all an son beyond his usual custome",
+        1.4346407611932788e-08
+      ],
+      [
+        "i do not think their shone sol great a light under the lids of venus when trans fickx wby her allan son beyond his usual custome",
+        1.4003619434158778e-08
+      ],
+      [
+        "i do not think their shone so great a light under the lids of venus when trans fickx wby her oll an son beyond his usual custome",
+        1.3270273598370309e-08
+      ],
+      [
+        "i do not think their shone so great a light under the lids of venus when trans fickx wby her ollan son beyond his usual custome",
+        1.275472384518187e-08
+      ],
+      [
+        "i do not think their shone so great a light under the lids of venus when trans fickx wby her all an son beyond his usual custom",
+        1.2045216658880877e-08
+      ],
+      [
+        "i do not think their shone so great a light under the lids of venus when trans ficx wby her all an son beyond his usual custome",
+        1.1921318111749082e-08
+      ],
+      [
+        "i do not think their shone so great a light under the lids of venus when trans fickx wby her allan son beyond his usual custom",
+        1.175734978510508e-08
+      ],
+      [
+        "i do not think their shone sol great a light under the lids of venus when trans fickx wby her oll an son beyond his usual custome",
+        1.1544030958471544e-08
       ]
     ]
   }
