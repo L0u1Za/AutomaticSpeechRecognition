@@ -11,12 +11,7 @@
     "log_spec": true
   },
   "augmentations": {
-    "wave": [
-      {
-        "type": "Gain",
-        "args": {}
-      }
-    ],
+    "wave": [],
     "spectrogram": []
   },
   "arch": {
@@ -51,16 +46,6 @@
             "max_audio_length": 40.0,
             "max_text_length": 200
           }
-        },
-        {
-          "type": "LibrispeechDataset",
-          "args": {
-            "data_dir": "/kaggle/input/librispeech",
-            "index_dir": "/kaggle/working",
-            "part": "train-other-500",
-            "max_audio_length": 40.0,
-            "max_text_length": 200
-          }
         }
       ]
     },
@@ -88,20 +73,6 @@
             "data_dir": "/kaggle/input/librispeech",
             "index_dir": "/kaggle/working",
             "part": "test-clean"
-          }
-        }
-      ]
-    },
-    "test-other": {
-      "batch_size": 30,
-      "num_workers": 5,
-      "datasets": [
-        {
-          "type": "LibrispeechDataset",
-          "args": {
-            "data_dir": "/kaggle/input/librispeech",
-            "index_dir": "/kaggle/working",
-            "part": "test-other"
           }
         }
       ]
