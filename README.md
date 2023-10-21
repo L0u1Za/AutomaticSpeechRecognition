@@ -2,10 +2,42 @@
 
 ## Installation guide
 
-< Write your installation guide here >
+Firstly, install needed requirements for running model
 
 ```shell
 pip install -r ./requirements.txt
+```
+
+### Download model
+
+Use bash script to download trained model
+
+```shell
+cd ./default_test_model
+./download.sh
+```
+
+It will be placed to `./default_test_model/checkpoint.pth`
+
+If you have some issues using bash utilities, you may download model directly from [google drive](https://drive.google.com/file/d/1-D1VtBu7ik-jOm__FB3PdArFaTdVjt_Z/view?usp=share_link)
+
+
+## Run unit tests
+
+You may check the correct work of implementation using unit tests
+
+```shell
+python -m unittest discover hw_asr/tests
+```
+
+## Run test model with prepared configuration
+
+```shell
+python test.py \
+   -c default_test_config.json \
+   -r default_test_model/checkpoint.pth \
+   -t test_data \
+   -o test_result.json
 ```
 
 ## Recommended implementation order
