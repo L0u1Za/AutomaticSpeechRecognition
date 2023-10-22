@@ -1,231 +1,231 @@
 [
   {
-    "ground_trurh": "I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM",
-    "pred_text_argmax": "i do not think their shone so great alight undr the lids of veness wen transfix by her own son beyond his usual custom",
+    "ground_trurh": "YE ARE NEW COMERS AND BECAUSE I SMILE BEGAN SHE PERADVENTURE IN THIS PLACE ELECT TO HUMAN NATURE FOR ITS NEST",
+    "pred_text_argmax": "ye i new comers and because i smile began she puradventure in this place elect to human nature for its nest",
     "pred_text_beam_search": [
       [
-        "i do not think their showne so greata light under the lids of veness wen transfix by her own son beyond his usual custom",
-        6.853523819977097e-08
+        "ye i new comers and because i smile began she puradventure in this place elect to human nature for its nest",
+        0.003144242630162758
       ],
       [
-        "i do not think their showne so great a light under the lids of veness wen transfix by her own son beyond his usual custom",
-        6.378760479390426e-08
+        "ye i knew comers and because i smile began she puradventure in this place elect to human nature for its nest",
+        0.0021861748052376165
       ],
       [
-        "i do not think their showne so greatalight under the lids of veness wen transfix by her own son beyond his usual custom",
-        5.453905713983533e-08
+        "ye i new comers and because i smile began she paradventure in this place elect to human nature for its nest",
+        0.0015740408707703734
       ],
       [
-        "i do not think their showne so great alight under the lids of veness wen transfix by her own son beyond his usual custom",
-        5.096891874690568e-08
+        "ye i new comers and because i smile began she peradventure in this place elect to human nature for its nest",
+        0.0013786316016836323
       ],
       [
-        "i do not think their showne so greata light under the lids of veness when transfix by her own son beyond his usual custom",
-        4.706522432287208e-08
+        "ye i new comers and because i smile began she puradventur in this place elect to human nature for its nest",
+        0.001154214261074192
       ],
       [
-        "i do not think their showne so great a light under the lids of veness when transfix by her own son beyond his usual custom",
-        4.087129991180953e-08
+        "ye i knew comers and because i smile began she paradventure in this place elect to human nature for its nest",
+        0.001149771695508263
       ],
       [
-        "i do not think their showne so greata light under the lids of veness wen transfix by her own sun beyond his usual custom",
-        3.990463486339615e-08
+        "ye i knew comers and because i smile began she peradventure in this place elect to human nature for its nest",
+        0.0010042018067932272
       ],
       [
-        "i do not think their showne so great a light under the lids of veness wen transfix by her own sun beyond his usual custom",
-        3.714297440331442e-08
+        "ye i new comers and because i smile becan she puradventure in this place elect to human nature for its nest",
+        0.0008458035974474897
       ],
       [
-        "i do not think their shone so greata light under the lids of veness wen transfix by her own son beyond his usual custom",
-        3.640049293069801e-08
+        "ye i knew comers and because i smile began she puradventur in this place elect to human nature for its nest",
+        0.0008200092932188718
       ],
       [
-        "i do not think their showne so greatalight under the lids of veness wen transfix by her own sun beyond his usual custom",
-        3.196937614077713e-08
+        "ye i new comers and because i smile began she puroadventure in this place elect to human nature for its nest",
+        0.0006076560402126889
       ]
     ]
   },
   {
     "ground_trurh": "THOU MAKEST ME REMEMBER WHERE AND WHAT PROSERPINA THAT MOMENT WAS WHEN LOST HER MOTHER HER AND SHE HERSELF THE SPRING",
-    "pred_text_argmax": "thou make ist me remember weare and what prosipene that moment was when lost her mother her and she herself the spring",
+    "pred_text_argmax": "thou makast me rememberwhere and what procepene that moment was when lost her mother her and she herself the spring",
     "pred_text_beam_search": [
       [
-        "thou make ist me remember where and what prosipene that moment was when lost her mother her and she herself the spring ",
-        1.2689373246644583e-05
+        "thou mak ast me remember where and what procepene that moment was when lost her mother her and she herself the spring",
+        0.00028344316598067677
       ],
       [
-        "thou make ist me remember wheare and what prosipene that moment was when lost her mother her and she herself the spring ",
-        1.251640785162034e-05
+        "thou mak ast me remember where and what procepena that moment was when lost her mother her and she herself the spring",
+        0.0002577994304426385
       ],
       [
-        "thou make ist me remember where and what prosipene that moment was wen lost her mother her and she herself the spring ",
-        9.122796720782498e-06
+        "thou mak est me remember where and what procepene that moment was when lost her mother her and she herself the spring",
+        0.00024121689538825973
       ],
       [
-        "thou make ist me remember wheare and what prosipene that moment was wen lost her mother her and she herself the spring ",
-        9.001341815186247e-06
+        "thou mak est me remember where and what procepena that moment was when lost her mother her and she herself the spring",
+        0.00020909255476060076
       ],
       [
-        "thou make ist me remember where and what prosipene that moment was when lost her mother her and she herself the spring",
-        7.924122344283686e-06
+        "thou makast me remember where and what procepene that moment was when lost her mother her and she herself the spring",
+        0.00019903279593272335
       ],
       [
-        "thou make ist me remember wheare and what prosipene that moment was when lost her mother her and she herself the spring",
-        7.816110788089461e-06
+        "thou makast me remember where and what procepena that moment was when lost her mother her and she herself the spring",
+        0.00018337803658591783
       ],
       [
-        "thou make ist me remember were and what prosipene that moment was when lost her mother her and she herself the spring ",
-        7.598691764476632e-06
+        "thou mak ast me remember where and what pocepene that moment was when lost her mother her and she herself the spring",
+        0.00015233236701850202
       ],
       [
-        "thou make ist me remember weare and what prosipene that moment was when lost her mother her and she herself the spring ",
-        7.175124086204686e-06
+        "thou mak ast me rememberwhere and what procepene that moment was when lost her mother her and she herself the spring",
+        0.00015089955625941623
       ],
       [
-        "thou make ist me remember where and what prosipene that moment was wen lost her mother her and she herself the spring",
-        5.69690527123757e-06
+        "thou makest me remember where and what procepene that moment was when lost her mother her and she herself the spring",
+        0.0001463723527462153
       ],
       [
-        "thou make ist me remember wheare and what prosipene that moment was wen lost her mother her and she herself the spring",
-        5.621060427481193e-06
+        "thou mak ast me remember where and what pocepena that moment was when lost her mother her and she herself the spring",
+        0.00013860422699730338
       ]
     ]
   },
   {
-    "ground_trurh": "YE ARE NEW COMERS AND BECAUSE I SMILE BEGAN SHE PERADVENTURE IN THIS PLACE ELECT TO HUMAN NATURE FOR ITS NEST",
-    "pred_text_argmax": "ye i knew comers and because i smile becanshe peraed venture in this place alect to human nature for its nest",
+    "ground_trurh": "I DO NOT THINK THERE SHONE SO GREAT A LIGHT UNDER THE LIDS OF VENUS WHEN TRANSFIXED BY HER OWN SON BEYOND HIS USUAL CUSTOM",
+    "pred_text_argmax": "i do not think their shown so great alight under the lids of veness when transfixd wyt her own son beyond his usual custom",
     "pred_text_beam_search": [
       [
-        "ye i knew comers and because i smile becanshe pered venture in this place alect to human nature for its nest",
-        2.072242707292445e-06
+        "i do not think their shown so great alight under the lids of veness when transfix wyt her own son beyond his usual custom",
+        2.717322018528046e-06
       ],
       [
-        "ye i knew comers and because i smile becanshe peredventure in this place alect to human nature for its nest",
-        1.9101758210576383e-06
+        "i do not think their shown so great alight under the lids of venus when transfix wyt her own son beyond his usual custom",
+        2.693504043530345e-06
       ],
       [
-        "ye i knew comers and because i smile becan she pered venture in this place alect to human nature for its nest",
-        1.7863592887511074e-06
+        "i do not think their shown so great alight under the lids of venes when transfix wyt her own son beyond his usual custom",
+        2.6555294577061212e-06
       ],
       [
-        "ye i knew comers and because i smile becan she peredventure in this place alect to human nature for its nest",
-        1.6333493071348651e-06
+        "i do not think their showne so great alight under the lids of veness when transfix wyt her own son beyond his usual custom",
+        2.578631065865566e-06
       ],
       [
-        "ye i knew commers and because i smile becanshe pered venture in this place alect to human nature for its nest",
-        1.568363310334475e-06
+        "i do not think their showne so great alight under the lids of venus when transfix wyt her own son beyond his usual custom",
+        2.4760986051163423e-06
       ],
       [
-        "ye i knew comers and because i smile becanshe perad venture in this place alect to human nature for its nest",
-        1.3442053192668561e-06
+        "i do not think their showne so great alight under the lids of venes when transfix wyt her own son beyond his usual custom",
+        1.964770160531253e-06
       ],
       [
-        "ye i knew commers and because i smile becanshe peredventure in this place alect to human nature for its nest",
-        1.2817733992247995e-06
+        "i do not think ther shown so great alight under the lids of veness when transfix wyt her own son beyond his usual custom",
+        1.8621798258867363e-06
       ],
       [
-        "ye i knew comers and because i smile becanshe peradventure in this place alect to human nature for its nest",
-        1.252153967375282e-06
+        "i do not think ther shown so great alight under the lids of venus when transfix wyt her own son beyond his usual custom",
+        1.8462778582838314e-06
       ],
       [
-        "ye i knew comers and because i smile becanshe peraed venture in this place alect to human nature for its nest",
-        1.1695245939931984e-06
+        "i do not think ther shown so great alight under the lids of venes when transfix wyt her own son beyond his usual custom",
+        1.7677637768914606e-06
       ],
       [
-        "ye i knew comers and because i smile becan she perad venture in this place alect to human nature for its nest",
-        1.0039065519296193e-06
+        "i do not think their shown so great alight under the lids of veness when transfixd wyt her own son beyond his usual custom",
+        1.747908324042337e-06
       ]
     ]
   },
   {
     "ground_trurh": "ALL WATERS THAT ON EARTH MOST LIMPID ARE WOULD SEEM TO HAVE WITHIN THEMSELVES SOME MIXTURE COMPARED WITH THAT WHICH NOTHING DOTH CONCEAL",
-    "pred_text_argmax": "al waters that un earsmost limpet ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
+    "pred_text_argmax": "alh waters that un earthmost lipit are would seemed to hawve within themselves so mixture compared with that which nothing doth conceal",
     "pred_text_beam_search": [
       [
-        "all waters that un ears most limpet ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
-        7.637641296913823e-08
+        "alh waters that un earthmost limpit are would seemed to have within themselves so mixture compared with that which nothing doth conceal",
+        3.2562248241029164e-05
       ],
       [
-        "al waters that un ears most limpet ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
-        7.617585649040074e-08
+        "alh waters that un earth most limpit are would seemed to have within themselves so mixture compared with that which nothing doth conceal",
+        3.239222489043525e-05
       ],
       [
-        "all waters that un ears most limpet ar would seen to have within themselves some mixture compared with that which nothing doth concel",
-        6.097514110005481e-08
+        "alh waters that un earthmost lipit are would seemed to have within themselves so mixture compared with that which nothing doth conceal",
+        2.977694321062502e-05
       ],
       [
-        "al waters that un ears most limpet ar would seen to have within themselves some mixture compared with that which nothing doth concel",
-        6.08150267517351e-08
+        "alh waters that un earth most lipit are would seemed to have within themselves so mixture compared with that which nothing doth conceal",
+        2.9327003884380606e-05
       ],
       [
-        "all waters that un earsh most limpet ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
-        5.476422562557298e-08
+        "alh waters that un earthmost limpit are would seemed to hawve within themselves so mixture compared with that which nothing doth conceal",
+        1.654808131954132e-05
       ],
       [
-        "al waters that un earsh most limpet ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
-        5.462042049221723e-08
+        "alh waters that un earth most limpit are would seemed to hawve within themselves so mixture compared with that which nothing doth conceal",
+        1.652273195800668e-05
       ],
       [
-        "all waters that un earsh most limpet ar would seen to have within themselves some mixture compared with that which nothing doth concel",
-        5.001575280148892e-08
+        "alh waters that un earthmost lipit are would seemed to hawve within themselves so mixture compared with that which nothing doth conceal",
+        1.5348470562365782e-05
       ],
       [
-        "al waters that un earsh most limpet ar would seen to have within themselves some mixture compared with that which nothing doth concel",
-        4.988441666152989e-08
+        "alh waters that un earth most lipit are would seemed to hawve within themselves so mixture compared with that which nothing doth conceal",
+        1.4669756440349123e-05
       ],
       [
-        "all waters that un ears most limpit ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
-        4.638274950222454e-08
+        "alh waters that un earthmost limpit are would seemd to have within themselves so mixture compared with that which nothing doth conceal",
+        9.93152777643051e-06
       ],
       [
-        "al waters that un ears most limpit ar would seen to have within themselves some mixture compared with that which nothing doth conceal",
-        4.626095324926224e-08
+        "alh waters that un earth most limpit are would seemd to have within themselves so mixture compared with that which nothing doth conceal",
+        9.91576401643301e-06
       ]
     ]
   },
   {
     "ground_trurh": "BUT WITH FULL RAVISHMENT THE HOURS OF PRIME SINGING RECEIVED THEY IN THE MIDST OF LEAVES THAT EVER BORE A BURDEN TO THEIR RHYMES",
-    "pred_text_argmax": "but with full ravishment the hours of prime tinging received they in the midstof leves that ever bore a burden to theirimes",
+    "pred_text_argmax": "but with full ravishment the hours of prime singing received they in the midst of leaves that ever boora burden to their rimes",
     "pred_text_beam_search": [
       [
-        "but with full ravishment the hours of prime tinging received they in the midstof leaves that ever bore a burden to theirimes",
-        1.7536152407534308e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that ever boor a burden to their rimes",
+        0.0009958906125508453
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midstof leves that ever bore a burden to theirimes",
-        1.7524911164432724e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that everboor a burden to their rimes",
+        0.0006325372371630056
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midst of leaves that ever bore a burden to theirimes",
-        1.6587843439742748e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that ever boor aburden to their rimes",
+        0.0004892000456995103
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midst of leves that ever bore a burden to theirimes",
-        1.6577210093481626e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that ever boora burden to their rimes",
+        0.0004728407869057025
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midstof leaves that ever bor a burden to theirimes",
-        1.634499302893368e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that ever boor a burden to theirimes",
+        0.0003805108602989729
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midstof leves that ever bor a burden to theirimes",
-        1.633451535767136e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that everboor aburden to their rimes",
+        0.0002570388365860506
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midst of leaves that ever bor a burden to theirimes",
-        1.5461098825255998e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that everboora burden to their rimes",
+        0.00025528322874527086
       ],
       [
-        "but with full ravishment the hours of prime tinging received they in the midst of leves that ever bor a burden to theirimes",
-        1.5451187758878731e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that everboor a burden to theirimes",
+        0.00023383223204608586
       ],
       [
-        "but with full ravishment the hours of prime singing received they in the midstof leaves that ever bore a burden to theirimes",
-        1.5280747413595841e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that ever booraburden to their rimes",
+        0.0002117068176418845
       ],
       [
-        "but with full ravishment the hours of prime singing received they in the midstof leves that ever bore a burden to theirimes",
-        1.5270951958329586e-06
+        "but with full ravishment the hours of prime singing received they in the midst of leaves that ever boor a burden to their rines",
+        0.00020447295979901197
       ]
     ]
   }

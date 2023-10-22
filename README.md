@@ -19,7 +19,7 @@ cd ./default_test_model
 
 It will be placed to `./default_test_model/checkpoint.pth`
 
-If you have some issues using bash utilities, you may download model directly from [google drive](https://drive.google.com/file/d/1-D1VtBu7ik-jOm__FB3PdArFaTdVjt_Z/view?usp=share_link)
+If you have some issues using bash utilities, you may download model directly from [google drive](https://drive.google.com/drive/folders/12nfElb7A6v7Y6Kd0z8qsIQo9FRUS2dg4?usp=sharing)
 
 
 ## Run unit tests
