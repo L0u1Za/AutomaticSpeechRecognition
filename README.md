@@ -2,7 +2,7 @@
 
 ## Report
 
-You may see the report if you follow [this link](https://wandb.ai/l0u1za/asr_project/reports/Automatic-Speech-Recognition--Vmlldzo1NzQyMTg4)
+You may see the report if you follow [this link](https://api.wandb.ai/links/l0u1za/q4ofufk1)
 
 ## Installation guide
 
