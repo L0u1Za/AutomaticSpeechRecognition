@@ -1,5 +1,9 @@
 # ASR project
 
+## Report
+
+You may see the report if you follow [this link](https://wandb.ai/l0u1za/asr_project/reports/Automatic-Speech-Recognition--Vmlldzo1NzQyMTg4)
+
 ## Installation guide
 
 Firstly, install needed requirements for running model
